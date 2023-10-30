@@ -3,7 +3,9 @@
 Welcome to the Product Landing Page project. This project showcases a sophisticated and responsive landing page for your product or service.
 
 ## Deployed Link
-[Product Landing Page](https://your-landing-page-url.com)
+[Product Landing Page](https://hadep275.github.io/Product-Landing-Page/)
+
+Feel free to customize the content and styling to showcase your product or service with elegance.
 
 ## HTML Structure
 
@@ -26,4 +28,3 @@ The CSS file (`styles.css`) provides a modern and senior-level design, including
 2. Open the `index.html` file in a web browser to view the Product Landing Page.
 
 
-Feel free to customize the content and styling to showcase your product or service with elegance.
