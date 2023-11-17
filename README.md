@@ -5,6 +5,9 @@ Welcome to the Product Landing Page project. This project showcases a sophistica
 ## Deployed Link
 [Product Landing Page](https://hadep275.github.io/Product-Landing-Page/)
 
+![screencapture-hadep275-github-io-Product-Landing-Page-2023-11-17-15_21_44](https://github.com/hadep275/Product-Landing-Page/assets/65734173/cd86f3c1-c24f-4244-8657-e938581b87ee)
+
+
 Feel free to customize the content and styling to showcase your product or service with elegance.
 
 ## HTML Structure
